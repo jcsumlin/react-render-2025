@@ -25,5 +25,7 @@ MCP is an open standard inspired by apis and lsp:
 - You can lay out custom instructions to tell the agent to program the way you do semantically. 
 - Prompt files are usable to properly plan a feature or task.
 - Sometimes you need to be explicit and tell it NOT to write code so that you can develop a proper plan.
-- 
+
+# GITBEY
+
 

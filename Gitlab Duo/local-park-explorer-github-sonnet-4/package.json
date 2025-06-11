@@ -1,0 +1,30 @@
+{
+  "name": "local-park-explorer",
+  "version": "1.0.0",
+  "description": "A web application to help people discover public parks in Atlanta, GA.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "leaflet": "^1.9.3"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0"
+  },
+  "keywords": [
+    "react",
+    "parks",
+    "atlanta",
+    "leaflet"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

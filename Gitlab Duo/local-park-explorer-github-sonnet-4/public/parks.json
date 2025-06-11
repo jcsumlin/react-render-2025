@@ -1,0 +1,14 @@
+[
+ {
+  "name": "Grant Park",
+  "latitude": 33.7366,
+  "longitude": -84.3733,
+  "amenities": ["dog park", "playground", "walking trail"]
+ },
+ {
+  "name": "Piedmont Park",
+  "latitude": 33.7851,
+  "longitude": -84.3738,
+  "amenities": ["tennis courts", "picnic area", "soccer field"]
+ }
+]
